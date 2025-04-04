@@ -83,7 +83,7 @@ const instance = axios.create({
 
   // baseURL: `http://localhost:8000/`,
 
-  baseURL: `https://modearchsteel.sumagodemo.com/`,
+  baseURL: `https://modearchsteel-api.sumagodemo.com/`,
 
   // baseURL: `https://staging-api-v2.modearchsteel.com/`,
   // baseURL: `https://api.modearchsteel.com/`,
